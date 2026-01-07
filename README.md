@@ -1,9 +1,9 @@
 # BasicsToAI
 # Labs
-  1. Connect - How to initialize connection to Azure Cosmos DB
-  2. CRUD - Create, Read, Update and Delete Operations in Azure Cosmos DB
-  3. Indexing - Changing Indexing Policy in Azure Cosmos DB Emulator
-  4. AI - Setup a vector store in Azure Cosmos DB Emulator
+1. **Connect** - Initializing a connection to Azure Cosmos DB  
+2. **CRUD** - Performing Create, Read, Update, and Delete operations in Azure Cosmos DB  
+3. **Indexing** - Modifying the indexing policy in the Azure Cosmos DB Emulator  
+4. **AI** - Setting up a vector store in the Azure Cosmos DB Emulator  
 
 # Live
   Code demo for Azure Cosmos DB Live: C# Edition
